@@ -1,0 +1,10 @@
+langcode: en
+status: true
+dependencies:
+  module:
+    - entity_import
+id: entity_import_save_action
+label: 'Save entity imports'
+type: entity_import
+plugin: entity:save_action:entity_import
+configuration: {  }

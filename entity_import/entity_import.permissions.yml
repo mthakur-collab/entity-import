@@ -1,0 +1,11 @@
+administer entity_import:
+  title: 'Administer entity imports'
+  restrict access: true
+view entity_import:
+  title: 'View entity import'
+edit entity_import:
+  title: 'Edit entity import'
+delete entity_import:
+  title: 'Delete entity import'
+create entity_import:
+  title: 'Create entity import'

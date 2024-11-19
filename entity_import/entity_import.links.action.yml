@@ -1,0 +1,5 @@
+entity_import.add_form:
+  title: 'Add entity import'
+  route_name: entity.entity_import.add_form
+  appears_on:
+    - entity.entity_import.collection

@@ -1,0 +1,11 @@
+entity.entity_import.settings:
+  title: 'Entity import'
+  description: 'Configure an Entity import entity type.'
+  route_name:  entity.entity_import.settings
+  parent: system.admin_structure
+
+entity.entity_import.collection:
+  title: 'Entity imports'
+  description: 'List of entity imports.'
+  route_name: entity.entity_import.collection
+  parent: system.admin_content

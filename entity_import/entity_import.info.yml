@@ -1,0 +1,5 @@
+name: 'Entity import'
+type: module
+description: 'Entity to Save Mongo DB data'
+package: 'custom'
+core_version_requirement: ^9 || ^10 || ^11

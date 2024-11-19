@@ -1,0 +1,22 @@
+entity.entity_import.settings:
+  title: 'Settings'
+  route_name: entity.entity_import.settings
+  base_route: entity.entity_import.settings
+entity.entity_import.view:
+  title: 'View'
+  route_name: entity.entity_import.canonical
+  base_route: entity.entity_import.canonical
+entity.entity_import.edit_form:
+  title: 'Edit'
+  route_name: entity.entity_import.edit_form
+  base_route: entity.entity_import.canonical
+entity.entity_import.delete_form:
+  title: 'Delete'
+  route_name: entity.entity_import.delete_form
+  base_route: entity.entity_import.canonical
+  weight: 10
+entity.entity_import.collection:
+  title: 'Entity imports'
+  route_name: entity.entity_import.collection
+  base_route: system.admin_content
+  weight: 10

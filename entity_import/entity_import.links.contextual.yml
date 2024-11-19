@@ -1,0 +1,10 @@
+entity.entity_import.edit_form:
+  route_name: entity.entity_import.edit_form
+  group: entity_import
+  title: 'Edit'
+
+entity.entity_import.delete_form:
+  route_name: entity.entity_import.delete_form
+  group: entity_import
+  title: 'Delete'
+  weight: 10
